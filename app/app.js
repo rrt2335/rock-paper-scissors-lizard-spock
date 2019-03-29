@@ -1,5 +1,3 @@
-console.log("Start!");
-
 let choices = [
     "ROCK",
     "PAPER",
@@ -162,5 +160,3 @@ function playSound() {
     var audio = document.getElementById("select");
     audio.play();
 }
-
-console.log("Finish!");
